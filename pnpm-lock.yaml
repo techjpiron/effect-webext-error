@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       effect:
-        specifier: ^3.6.7
-        version: 3.6.7
+        specifier: ^3.5.0
+        version: 3.5.0
     devDependencies:
       '@parcel/config-webextension':
         specifier: ^2.12.0
@@ -629,8 +629,8 @@ packages:
     resolution: {integrity: sha512-M3NhsLbV1i6HuGzBUH8vXrtxOk+tWmzWKDMbAVSUp3Zsjm7ywFeuwrUXhmhQyRK1q5B5GGy7hcXPbj3bnfZg2g==}
     engines: {node: '>=6'}
 
-  effect@3.6.7:
-    resolution: {integrity: sha512-txHuQLxiwOHw6SZfZeWVH6PySULva3dsaaA+BgrE61wj06nTe50rh471FYLPqBYKSE0y/JaOuC2FSDfsIo0Kww==}
+  effect@3.5.0:
+    resolution: {integrity: sha512-q4JBEXYnFgbGsuxY03yUdkdMI7N2d2sMS93ulZle+a0M2Mt/rJv9xFDotkaxJILzYK2v6Uu5qJBOBJ0RD1OGCg==}
 
   electron-to-chromium@1.5.13:
     resolution: {integrity: sha512-lbBcvtIJ4J6sS4tb5TLp1b4LyfCdMkwStzXPyAgVgTRAsep4bvrAGaBOP7ZJtQMNJpSQ9SqG4brWOroNaQtm7Q==}
@@ -1842,7 +1842,7 @@ snapshots:
 
   dotenv@7.0.0: {}
 
-  effect@3.6.7: {}
+  effect@3.5.0: {}
 
   electron-to-chromium@1.5.13: {}
 
